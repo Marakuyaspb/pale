@@ -1,4 +1,49 @@
-<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="9" cy="9" r="9" fill="#070A0E"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9.00985 2C12.8692 2 16 5.1308 16 9.00985C16 12.8692 12.8692 16 9.00985 16C5.1308 16 2 12.8692 2 9.00985C2 5.1308 5.1308 2 9.00985 2ZM7.90717 5.18987H10.0928V7.90717H12.8101V10.0928H10.0928V12.8101H7.90717V10.0928H5.18987V7.90717H7.90717V5.18987Z" fill="#00D395"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="18"
+   height="18"
+   viewBox="0 0 18 18"
+   fill="none"
+   version="1.1"
+   id="svg65431"
+   sodipodi:docname="icon-propose-dark.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs65435" />
+  <sodipodi:namedview
+     id="namedview65433"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.111111"
+     inkscape:cx="9"
+     inkscape:cy="9.0381356"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65431" />
+  <circle
+     cx="9"
+     cy="9"
+     r="9"
+     fill="#070A0E"
+     id="circle65427" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M9.00985 2C12.8692 2 16 5.1308 16 9.00985C16 12.8692 12.8692 16 9.00985 16C5.1308 16 2 12.8692 2 9.00985C2 5.1308 5.1308 2 9.00985 2ZM7.90717 5.18987H10.0928V7.90717H12.8101V10.0928H10.0928V12.8101H7.90717V10.0928H5.18987V7.90717H7.90717V5.18987Z"
+     fill="#00D395"
+     id="path65429"
+     style="fill:#a0d568;fill-opacity:1" />
 </svg>

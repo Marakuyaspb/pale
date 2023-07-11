@@ -1,4 +1,49 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="8.03154" cy="8.18389" r="6.81279" stroke="#00D395"/>
-<path d="M5.22656 8.42801L6.93459 10.1375L10.8494 6.22266" stroke="#00D395" stroke-width="1.2"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg18559"
+   sodipodi:docname="icn-solution.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18563" />
+  <sodipodi:namedview
+     id="namedview18561"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8.0338983"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18559" />
+  <circle
+     cx="8.03154"
+     cy="8.18389"
+     r="6.81279"
+     stroke="#00D395"
+     id="circle18555"
+     style="stroke:#a0d568;stroke-opacity:1" />
+  <path
+     d="M5.22656 8.42801L6.93459 10.1375L10.8494 6.22266"
+     stroke="#00D395"
+     stroke-width="1.2"
+     id="path18557"
+     style="stroke:#a0d568;stroke-opacity:1" />
 </svg>
