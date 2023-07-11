@@ -10,10 +10,33 @@
    inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs9124" />
+     id="defs9124">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7122">
+      <stop
+         style="stop-color:#cd8a4b;stop-opacity:1;"
+         offset="0"
+         id="stop7118" />
+      <stop
+         style="stop-color:#c18af3;stop-opacity:1;"
+         offset="1"
+         id="stop7120" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7122"
+       id="linearGradient7124"
+       x1="16.415255"
+       y1="26.129456"
+       x2="31.596642"
+       y2="4.7698169"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="namedview9122"
      pagecolor="#ffffff"
@@ -26,7 +49,7 @@
      showgrid="false"
      inkscape:zoom="7.375"
      inkscape:cx="17.491525"
-     inkscape:cy="16.067797"
+     inkscape:cy="16.20339"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -36,8 +59,8 @@
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"
-     d="M18.4141 0L34.0977 15.6836L33.9684 15.8129L33.9704 15.8149L18.4141 31.3712L16.9999 29.957L30.2616 16.6953H0V14.6953H30.281L16.9999 1.41421L18.4141 0Z"
+     d="m 16.940583,0.44120763 15.6836,15.68360037 -0.1293,0.1293 0.002,0.002 -15.5563,15.5563 -1.4142,-1.4142 13.2617,-13.2617 h -30.2616 v -2 h 30.281 L 15.526383,1.8554177 Z"
      fill="#00D395"
      id="path9118"
-     style="fill:#a0d568;fill-opacity:1" />
+     style="fill:url(#linearGradient7124);fill-opacity:1" />
 </svg>

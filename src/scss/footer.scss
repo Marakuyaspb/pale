@@ -43,7 +43,7 @@ footer {
             vertical-align: middle;
           }
           &:hover {
-            color: $color_supply;
+            color: #c9803c;
           }
         }
 
@@ -80,13 +80,13 @@ footer {
 
     &:hover {
       text-decoration: none;
-      color: $color_supply;
+      color: #c9803c;
     }
   }
 
   .dapp {
-    color: $color_supply;
-    border-color: $color_supply;
+    color: #c9803c;
+    border-color: #c9803c;
     transition: background-color 0.2s ease-in, color 0.2s ease-in;
 
     text-transform: none;
@@ -94,9 +94,9 @@ footer {
     font-size: 14px;
 
     &:hover {
-      background-color: $color_supply;
+      background-color: #c9803c;
       color: $color_light_1;
-      border-color: $color_supply;
+      border-color: #c9803c;
     }
   }
 
@@ -181,7 +181,7 @@ footer.dapp {
   border-top: 1px solid $color_grey_3;
 
   .brand {
-    background-image: url(/images/compound-logo-dark.svg);
+    background-image: url(/images/giraffe-logo-dark.svg);
   }
 
   label {

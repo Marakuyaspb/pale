@@ -2,7 +2,7 @@
 
 .brand {
   display: inline-block;
-  background-image: url(/images/compound-logo.svg); //TODO: See if we should move this?
+  background-image: url(/images/giraffe-logo.svg); //TODO: See if we should move this?
   background-repeat: no-repeat;
   background-size: contain;
   background-color: transparent;
@@ -11,7 +11,7 @@
 
 .mark {
   display: inline-block;
-  background-image: url(/compound-components/assets/compound-mark.svg);
+  background-image: url(/images/giraffe-mark.svg)!important;
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: transparent;
@@ -94,7 +94,7 @@ input:disabled + button {
     padding: $column-gutter;
   }
   a {
-    color: $color_supply;
+    color: #c9803c;
     font-size: 14px;
     font-weight: 500;
     margin-left: ($column-gutter / 2);
@@ -149,21 +149,21 @@ select {
   font-size: 0.9rem;
   margin-top: 1rem;
   &.supply {
-    color: $color_supply;
+    color: #c9803c;
     .bar {
       background: $color_supply_light;
     }
     .fill {
-      background: $color_supply;
+      background: #c9803c;
     }
   }
   &.borrow {
-    color: $color_borrow;
+    color: #c18af3;
     .bar {
       background: $color_borrow_light;
     }
     .fill {
-      background: $color_borrow;
+      background: #c18af3;
     }
   }
   label {
@@ -218,7 +218,7 @@ select {
 
   &:hover {
     .build-item-text {
-      color: $color_supply;
+      color: #c9803c;
     }
   }
 }

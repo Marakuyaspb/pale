@@ -2,14 +2,14 @@
 
 @mixin link-active-hover {
   &.active {
-    color: $color_supply;
+    color: #c9803c;
     padding: 0.3rem 0;
-    border-bottom: 1px solid $color_supply;
+    border-bottom: 1px solid #c9803c;
     transition: padding 0.2s ease;
   }
 
   &:hover {
-    color: $color_supply;
+    color: #c9803c;
     text-decoration: none;
     padding-bottom: 0.5rem;
   }
@@ -31,7 +31,7 @@ header {
   }
 
   .brand {
-    background-image: url(/images/compound-logo.svg);
+    background-image: url(/images/giraffe-logo.svg)!important;
     background-repeat: no-repeat;
     background-size: contain;
     background-color: transparent;
@@ -184,7 +184,7 @@ header {
     background: $color_light_1;
 
     .brand {
-      background-image: url(/images/compound-logo-dark.svg);
+      background-image: url(/images/giraffe-logo-dark.svg);
     }
 
     .text-center a {

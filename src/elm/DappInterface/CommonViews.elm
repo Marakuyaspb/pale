@@ -170,8 +170,8 @@ pageHeader userLanguage page connectedWallet account _ governanceState _ =
 
                         _ ->
                             emptyClasses
-                v2MarketsExternalLink = "https://app.compound.finance/markets?market=v2"
-                v3VoteExternalLink = "https://app.compound.finance/vote"
+                v2MarketsExternalLink = "#"
+                v3VoteExternalLink = "#"
             in
             [ a (class homeClass :: href PageNavigation (getHrefUrl Home)) [ text (Translations.dashboard userLanguage) ]
             , a (href External (v2MarketsExternalLink)) [ text (Translations.markets userLanguage) ]
@@ -182,7 +182,7 @@ pageHeader userLanguage page connectedWallet account _ governanceState _ =
         [ div [ class "container-large" ]
             [ div [ class "row align-middle" ]
                 [ div [ class "col-xs-3 col-sm-4" ]
-                    [ a (class "brand" :: href External "https://compound.finance") []
+                    [ a (class "brand" :: href External "#") []
                     ]
                 , div [ class "col-xs-5 col-sm-4 mobile-hide text-center links" ] links
                 , div [ class "col-xs-9 col-sm-4 text-right actions" ]
