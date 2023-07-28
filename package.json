@@ -76,12 +76,13 @@
     "webpack": "^4.35.2",
     "webpack-dev-server": "^3.7.2",
     "webpack-manifest-plugin": "^2.0.3",
-    "whatwg-fetch": "3.0.0"
+    "whatwg-fetch": "3.0.0",
+    "zksync-web3": "^0.14.3"
   },
   "devDependencies": {
     "elm-format": "=0.8.5",
     "elm-test": "0.19.1-revision2",
-    "ethers": "^5.6.9",
+    "ethers": "5",
     "express": "^4.17.1",
     "google-translate": "^3.0.0",
     "ipfs-http-client": "^52.0.1",
