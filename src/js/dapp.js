@@ -6,6 +6,10 @@ import ports from './ports';
 import storage from './storage';
 import { providerType, langFromURL } from '../../node_modules/compound-components/src/js/sharedEth/utils';
 import { MDCSwitch } from '@material/switch';
+/* zk */
+import * as zksync from "zksync-web3";
+import * as ethers from "ethers";
+
 
 var oldErrorHandler = window.onerror || function () {};
 
